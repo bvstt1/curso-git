@@ -16,3 +16,6 @@ Este proyecto tiene como fin proporcionar ejemplos prácticos de cómo gestionar
 Este proyecto se compone de las siguientes partes:
 - Archivos de prueba utilizados para experimentar con los comandos de Git.
 - Ramas y commits demostrativos para practicar el flujo de trabajo en Git.
+
+## Nota
+Este código no está destinado a ser usado en producción, ya que es solo un proyecto de prueba para fines educativos. Está diseñado exclusivamente para experimentar con las herramientas de Git y GitHub.
